@@ -101,6 +101,6 @@ budgeted var% =  DIVIDE([cy sales]- [budgeted sales],[budgeted sales],BLANK())
 
 ### [TO VIEW THE DASHBOARD CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMDA2ZjcxZGUtMTczNC00MzYzLWJmMTYtMGZkMjA5NWIzYjNjIiwidCI6IjgwMjQzZDFlLWI1ZGEtNGNjZS1iNTYwLWYwZDcxYzBjZjljZSJ9)
 
-## Results and discussion
 
-#### [go to top]()
+
+
