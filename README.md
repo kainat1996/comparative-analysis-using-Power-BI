@@ -1,4 +1,4 @@
-# Power BI comparative analysis using scratch
+# Power BI comparative analysis from scratch
 ## Project Overview
 The purpose of this project is to conduct a comparative analysis of the sales and budgeted data of the Company for the fiscal year 2014-2020. The project aims to identify the variances between the actual and planned performance, Sales of current year vs previous year, analyze the causes and effects of the variances, and provide recommendations for improvement.
 
